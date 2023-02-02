@@ -1,0 +1,2 @@
+# RemoteMerging
+Yes
